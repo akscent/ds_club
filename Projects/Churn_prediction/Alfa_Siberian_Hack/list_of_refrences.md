@@ -6,3 +6,5 @@
 * [Датасет на kaagle](https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers) для практики в этой задаче, ниже есть примеры ноутбуков с решениями.
 * [Еще один пример](https://github.com/Nuagrinn/Bank_cliens_churn_kaggle/blob/master/Bank_cliens_churn_kaggle.ipynb) решения подобной задачи.
 * [Репозиторий](https://github.com/zunicd/Bank-Churn-Prediction) с реализайией различных алгоритмов решения и веб интерфейсом для этой задачи.
+
+* !!! [Репозиторий по ml от Алерона с фишечками](https://github.com/a-milenkin/Competitive_Data_Science) - хорошо подойдет для улучшения имеющихся пайплайнов.
