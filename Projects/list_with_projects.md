@@ -1,0 +1,7 @@
+1. [DataCamp Competitions](https://app.datacamp.com/learn/competitions/)
+2. [Zindi](https://zindi.africa/competitions)
+3. [Стажировка в Тинькофф с 14 декабря](https://fintech.tinkoff.ru/start/?ysclid=lpwull1pzr895255824)
+4. [Контест суммаризация текста - Brand Analytics](https://ba-contest.ru/)
+5. [Kaggle - Enefit - Predict Energy Behavior of Prosumers](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers)
+6. [Список актуальных англоязычных клмпетишнов](https://mlcontests.com/)
+7. [Machine Hack - просто классный сайт с практикой](https://machinehack.com/hackathons)
