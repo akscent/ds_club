@@ -5,3 +5,4 @@
 5. [Kaggle - Enefit - Predict Energy Behavior of Prosumers](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers)
 6. [Список актуальных англоязычных клмпетишнов](https://mlcontests.com/)
 7. [Machine Hack - просто классный сайт с практикой](https://machinehack.com/hackathons)
+8. [Рождественский хахатон](https://xmas-hack.ru/?utm_source=xmashack2023&utm_medium=telega_in&utm_campaign=posevy&utm_content={ad_id}&utm_term={keyword}#About)
